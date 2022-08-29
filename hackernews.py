@@ -16,7 +16,7 @@ table_values_author = table.find_all('a',href=True,class_='hnuser')
 
 with open('output.txt','w') as file:
 	for i in range(len(table_values_link) - 1):
-		text = str(i),'.',' ',table_values_link[i].text,' by', table_values_author[i].text, ' has', table_values_score[i].text
+		text = str(i),'.',' ',table_values_link[i].text,' by', table_values_author[i].text, ' has', table_values_score[i].text,' Link ->',table_values_link[i]['href']
 		text = ' '.join(text)
 		file.write(text)
 		file.write('\n')

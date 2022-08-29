@@ -1,29 +1,29 @@
-0 .   The Big [Censored] Theory  by feross  has 216 points
-1 .   90s Cursor Effects  by lysergia  has 103 points
-2 .   Welcome Home, Garry Tan  by todsacerdoti  has 490 points
-3 .   Are GPUs Worth It for ML?  by varunkmohan  has 24 points
-4 .   Show HN: I built a tool to help you read Hacker News on Kindle  by longnguyen  has 223 points
-5 .   Rewriting my blog in Rust for fun and profit  by lawn  has 119 points
-6 .   OCaml at First Glance  by todsacerdoti  has 195 points
-7 .   Git’s database internals I: packed object store  by todsacerdoti  has 112 points
-8 .   Why 12 notes in Western music?  by xchip  has 62 points
-9 .   Suiteness (YC S16) is hiring a customer support concierge  by vinnyglennon  has 62 points
-10 .   Rights, Laws, and Google  by simonpure  has 28 points
-11 .   The Mining of Minerals and the Limits to Growth (2021) [pdf]  by amichail  has 16 points
-12 .   Lielow: Playable chess-like game that uses only checkers  by tonerow  has 106 points
-13 .   A CSS-Inspired Syntax for Flowcharts  by pabs3  has 52 points
-14 .   Large scale Internet SSH brute force attacks seem to have stopped here  by RyanShook  has 28 points
-15 .   The Effects of Grounding on Inflammation  by danaris  has 46 points
-16 .   Silicon Values  by pseudolus  has 68 points
-17 .   Your doppelgänger is out there and you probably share DNA with them  by ingve  has 8 points
-18 .   What does it take to be a good programmer?  by Tomte  has 87 points
-19 .   Auditory brainstem response distinguishes occasional and constant tinnitus  by balboah  has 433 points
-20 .   Google cracks down on VPN based adblockers  by kjhughes  has 96 points
-21 .   Derinkuyu, the extraordinary underground city of Turkey  by wagslane  has 115 points
-22 .   DevOps: An Idea So Good, No One Admits They Don’t Do It  by abuggia  has 27 points
-23 .   Decoding AWS Reserved Instances  by doener  has 192 points
-24 .   Teenager invented a low-cost tool to spot elephant poachers  by 2noame  has 6 points
-25 .   The Toothpaste Argument for Universal Basic Income  by ducktective  has 156 points
-26 .   Ferret: A functional, lazy language for realtime embedded control systems  by SenHeng  has 120 points
-27 .   A handy guide to financial support for open source  by Vigier  has 24 points
-28 .   Mammals Won the Dinosaurs' World  by eeriedusk  has 51 points
+0 .   The Big [Censored] Theory  by feross  has 222 points  Link -> https://pudding.cool/2022/08/censorship/
+1 .   90s Cursor Effects  by lysergia  has 105 points  Link -> https://tholman.com/cursor-effects/
+2 .   Welcome Home, Garry Tan  by todsacerdoti  has 490 points  Link -> https://www.ycombinator.com/blog/welcome-home-garry-tan/
+3 .   Are GPUs Worth It for ML?  by varunkmohan  has 24 points  Link -> https://exafunction.com/blog/are-gpus-worth-it
+4 .   Show HN: I built a tool to help you read Hacker News on Kindle  by longnguyen  has 223 points  Link -> https://ktool.io/hacker-news-to-kindle
+5 .   Rewriting my blog in Rust for fun and profit  by lawn  has 119 points  Link -> https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/
+6 .   OCaml at First Glance  by todsacerdoti  has 195 points  Link -> https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/
+7 .   Large scale Internet SSH brute force attacks seem to have stopped here  by pabs3  has 54 points  Link -> https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere
+8 .   The Effects of Grounding on Inflammation  by RyanShook  has 31 points  Link -> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378297/
+9 .   Suiteness (YC S16) is hiring a customer support concierge  by todsacerdoti  has 112 points  Link -> https://www.ycombinator.com/companies/suiteness/jobs/kblNhHC-concierge
+10 .   Git’s database internals I: packed object store  by xchip  has 62 points  Link -> https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/
+11 .   Why 12 notes in Western music?  by vinnyglennon  has 62 points  Link -> https://github.com/aguaviva/articles/blob/main/why_12_notes.ipynb
+12 .   Rights, Laws, and Google  by simonpure  has 28 points  Link -> https://stratechery.com/2022/rights-laws-and-google/
+13 .   The Mining of Minerals and the Limits to Growth (2021) [pdf]  by amichail  has 16 points  Link -> https://tupa.gtk.fi/raportti/arkisto/16_2021.pdf
+14 .   Lielow: Playable chess-like game that uses only checkers  by tonerow  has 106 points  Link -> https://ludii.games/details.php?keyword=Lielow
+15 .   A CSS-Inspired Syntax for Flowcharts  by ingve  has 9 points  Link -> https://tone-row.com/blog/graph-syntax-css-selectors
+16 .   What does it take to be a good programmer?  by danaris  has 46 points  Link -> https://qristin.wordpress.com/2022/08/28/what-does-it-take-to-be-a-good-programmer/
+17 .   Silicon Values  by pseudolus  has 68 points  Link -> https://pxlnv.com/blog/silicon-values/
+18 .   Your doppelgänger is out there and you probably share DNA with them  by abuggia  has 29 points  Link -> https://www.nytimes.com/2022/08/23/science/doppelgangers-twins-dna.html
+19 .   Decoding AWS Reserved Instances  by Tomte  has 88 points  Link -> https://blog.symops.com/2022/08/24/decoding-aws-reserved-instances/
+20 .   Auditory brainstem response distinguishes occasional and constant tinnitus  by balboah  has 434 points  Link -> https://www.jci.org/articles/view/155094
+21 .   Google cracks down on VPN based adblockers  by wagslane  has 116 points  Link -> https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110
+22 .   DevOps: An Idea So Good, No One Admits They Don’t Do It  by kjhughes  has 96 points  Link -> https://wagslane.dev/posts/no-one-does-devops/
+23 .   Derinkuyu, the extraordinary underground city of Turkey  by doener  has 193 points  Link -> https://www.mybestplace.com/en/article/derinkuyu-the-extraordinary-underground-city-of-turkey
+24 .   Teenager invented a low-cost tool to spot elephant poachers  by ducktective  has 156 points  Link -> https://www.smithsonianmag.com/innovation/this-teenager-invented-a-low-cost-tool-to-spot-elephant-poachers-in-real-time-180980522/
+25 .   Ferret: A functional, lazy language for realtime embedded control systems  by 2noame  has 7 points  Link -> https://ferret-lang.org/
+26 .   The Toothpaste Argument for Universal Basic Income  by SenHeng  has 120 points  Link -> https://www.scottsantens.com/the-toothpaste-argument-for-universal-basic-income-ubi-gotz-werner/
+27 .   A handy guide to financial support for open source  by Vigier  has 24 points  Link -> https://github.com/nayafia/lemonade-stand
+28 .   Mammals Won the Dinosaurs' World  by eeriedusk  has 52 points  Link -> https://www.bbc.com/future/article/20220812-dinosaur-extinction-why-did-mammals-survive
